@@ -368,9 +368,9 @@ http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 #EXTINF:-1 tvg-id="CHC1" tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/CHC4.png" group-title="电影频道",CHC影迷电影
 http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
 #EXTINF:-1 tvg-id="CHC2" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/CHC2.png" group-title="电影频道",CHC家庭影院
-http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
+http://cg14.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?t=D360byGt%2BpZL3Wo1xiFxAw%3D%3D&u=HNTV01YU00021202&p=8&cid=100000190&pid=&l=1&d=48555E45F7FC&ip=192.168.197.125&n=CHCJTYY_8000&errorcode=0&sid=dc0dvd1mPBtLnOcG8ia8jA%3D%3D&r=20231212111401&e=20231212151401&nc=XOLY5A6gm03W&a=1111&pd=60&errorReason=0&v=2&project=WNTV&hlsSessionID=4379470835422697120&srchost=172.16.22.158:8060&gid=DHldhfgdMMpjpVp6NSOZqw%3D%3D
 #EXTINF:-1 tvg-id="CHC3" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/CHC3.png" group-title="电影频道",CHC动作电影
-http://[2001:250:5800:1005::155]:80/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
+https://epg.pw/stream/a9e49885cb3e631c34781283c45119db7bc5431c547d78b748880c9f3952fc04.m3u8
 #EXTINF:-1 tvg-name="峨眉电影" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan8.png" group-title="电影频道",峨眉电影
 http://wouu.net:9977/udp/239.93.0.252:5140
 #EXTINF:-1 tvg-name="力量影院" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/1905dy.png" group-title="电影频道",1905电影
